@@ -1,2 +1,2 @@
-# SQLMonitoringTroubleshootingScripts
-A collection of scripts for monitoring and troubleshooting SQL Server
+# SQLTools
+A collection of scripts for utilities, monitoring, and troubleshooting SQL Server
